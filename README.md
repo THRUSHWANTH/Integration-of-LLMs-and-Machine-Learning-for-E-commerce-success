@@ -11,7 +11,7 @@ Often users are overwhelmed by too many options. This leads to reduced relevance
 4. Ultimately, integrating LLMs and machine learning in e-commerce leads to a superior user experience and increased business success.
 
 **Methodology**:
-Using RLMrec which is model agnostic frame work, which involves colaborative profile generation and reasoning driven system prompts for improved personalization recommendation.Using RLMrec, a model-agnostic framework that involves collaborative profile generation and reasoning-driven system prompts, for improved personalized recommendations.
+Using RLMrec, a model-agnostic framework that involves collaborative profile generation and reasoning-driven system prompts, for improved personalized recommendations.
 Implementing hybrid ranking for recommending top n recommendations.
 
 ## Project Time Line 
