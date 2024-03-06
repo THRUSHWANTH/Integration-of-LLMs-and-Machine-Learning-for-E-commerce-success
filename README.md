@@ -24,8 +24,7 @@ Implementing hybrid ranking for recommending top n recommendations.
 **References**:
 1.  Representation Learning with Large Language Models for Recommendation by Xubin Ren, Wei Wei, Lianghao Xia, Lixin Su, Suqi Cheng, Junfeng Wang, Dawei Yin and Chao Huang University of Hong Kong publishesd
     on Jan 25 2024.
-2.  RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation by Sichun Luo, Bowei He, Haohan Zhao, Yinya Huang, Aojun Zhou, Zongpeng Li, Yuanzhang Xiao, Mingjie Zhan, Linqi     
-    Song.Publishesd on Jan 15 2024.
+
 
 
 
