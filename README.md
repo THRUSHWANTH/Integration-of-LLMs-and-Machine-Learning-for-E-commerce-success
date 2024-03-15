@@ -2,7 +2,8 @@
 Integrating LLMs with Traditional recommendation models 
 
 **Team Mates**: 
-Shravani 
+Shravani
+
 Mukul 
 
 Traditional e-commerce recommendation systems often overlook valuable insights from item descriptions and user reviews, limiting their ability to provide truly personalized recommendations. 
