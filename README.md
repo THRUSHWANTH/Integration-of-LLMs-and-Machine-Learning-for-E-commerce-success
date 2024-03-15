@@ -1,7 +1,7 @@
 # Integration-of-LLMs-and-Machine-Learning-for-E-commerce-success
 Integrating LLMs with Traditional recommendation models 
 
-**Team Mates**: 
+**Team Mates**: <br>
 Shravani<br>
 Mukul<br>
 
