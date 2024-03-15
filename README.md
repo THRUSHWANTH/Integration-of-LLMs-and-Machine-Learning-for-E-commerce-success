@@ -2,9 +2,8 @@
 Integrating LLMs with Traditional recommendation models 
 
 **Team Mates**: 
-Shravani
-
-Mukul 
+Shravani<br>
+Mukul<br>
 
 Traditional e-commerce recommendation systems often overlook valuable insights from item descriptions and user reviews, limiting their ability to provide truly personalized recommendations. 
 Often users are overwhelmed by too many options. This leads to reduced relevance, missed sales opportunities, and ultimately, a diminished user experience.
